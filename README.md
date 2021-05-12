@@ -10,21 +10,21 @@
 
 在ueditor.properties配置自定义漏洞利用页面字典
 
-![1](image\1.jpg)
+![1](\image\1.jpg)
 
 
 
 将需要测试的目标站点保存在当前文件夹下的url.txt里，需要携带HTTP或者HTTPS协议标识
 
-![2](image\2.png)
+![2](\image\2.png)
 
 启动脚本命令行，java -jar UEditorGetShell.jar，将图片马(ASPX)保存在VPS上，然后将RPC远程webshell路径填写在脚本里
 
-![3](image\3.png)
+![3](\image\3.png)
 
 回车，开始挂机批量吧！
 
-![4](image\4.png)
+![4](\image\4.png)
 
 
 
